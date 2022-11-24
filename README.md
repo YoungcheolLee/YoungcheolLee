@@ -4,8 +4,8 @@ Hi there 👋 </br>
 <hr style="border:1px color= silver;" width="100%">
 <h3 align="center"><b>Skills</b></h3>
 <div>
-<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue"/></a> &nbsp
 </div>
