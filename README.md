@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2> </br>
-<h5>저는 FrontEnd 개발자로 성장하려 노력하고 있습니다. </br>
-개발자로 거듭나기 위한 공부를 하며 중요하게 생각하는 내용들은 <a href = "https://rowawa.tistory.com/">블로그</a> 에 정리하고 있습니다!</h5>
+<h4>저는 FrontEnd 개발자로 성장하려 노력하고 있습니다. </br>
+개발자로 거듭나기 위한 공부를 하며 중요하게 생각하는 내용들은 <a href = "https://rowawa.tistory.com/">블로그</a> 에 정리하고 있습니다!</h4>
 <hr width="90%">
 <h3 align="center"><b>📚 Tech Stack</b></h3>
 <div>
