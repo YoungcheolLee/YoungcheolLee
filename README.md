@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2> </br>
-SQA로 성장하기 위해 개인적으로 QA기술 및 개발 공부를 하며 중요하게 생각하는 내용들은 <a href = "https://rowawa.tistory.com/">블로그</a> 에 정리하고 있습니다!
+SQA로 성장하기 위해 개인적으로 SoftwareQA 기술 및 개발 공부를 하며 중요하게 생각하는 내용들은 <a href = "https://rowawa.tistory.com/">블로그</a> 에 정리하고 있습니다!
 <br/>
-I am personally studying development to grow into SQA, and I am organizing the important things in blog!</h4>
+In order to grow into SQA, I personally study SoftwareQA technology and development, and I am organizing the important things on my blog!</h4>
 <hr width="90%">
 <h3 align="center"><b>📚 Tech Stack</b></h3>
 <div>
