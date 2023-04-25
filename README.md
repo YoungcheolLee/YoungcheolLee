@@ -7,6 +7,7 @@ I am personally studying development to grow into SQA, and I am organizing the i
 <div>
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue"/></a> &nbsp
 </div>
